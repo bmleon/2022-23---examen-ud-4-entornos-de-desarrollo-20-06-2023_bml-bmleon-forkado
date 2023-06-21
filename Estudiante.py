@@ -7,6 +7,7 @@ Extrae una superclase con los campos
 	apellidos
 	nif
     prueba
+    belen maria leon fernandez
 """
 
 class Estudiante:
