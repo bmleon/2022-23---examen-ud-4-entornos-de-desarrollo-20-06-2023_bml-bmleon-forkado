@@ -6,6 +6,7 @@ Extrae una superclase con los campos
 	nombre
 	apellidos
 	nif
+    prueba
 """
 
 class Estudiante:

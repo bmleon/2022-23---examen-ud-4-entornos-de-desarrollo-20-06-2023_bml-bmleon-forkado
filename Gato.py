@@ -1,6 +1,7 @@
 """
 Clase Gato.
 :author: Jaime Rabasco Ronda.
+prueba
 """
 class Gato:
 
